@@ -1,2 +1,2 @@
 # bachelor-graduate-code
-Detecting bearing error
+Bearing fault detection based on vibration signal classification
